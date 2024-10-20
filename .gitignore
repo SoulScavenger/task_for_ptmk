@@ -1,5 +1,6 @@
 .env
-*.txt
+report_first_letter_f.txt
+report_unique.txt
 .venv
 .mypy_cache
 *.sqlite
